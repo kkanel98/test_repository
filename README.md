@@ -1,2 +1,2 @@
-# test_repository
+# Example of README.md
 First repository
